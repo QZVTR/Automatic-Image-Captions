@@ -1,6 +1,6 @@
 # Automatic Image Captioning
 
-![Captioned Image](Before_After.png)
+![Captioned Image](Final_Before_After.png)
 Caption: A young girl is in the water.
 
 ## Introduction 
@@ -93,5 +93,6 @@ Low losses indicate effective word prediction during training, but the lowe BLEU
 - scikit-learn
 - pickle
 
-![Captioned Image](Captions_with_Background.png)
+![Captioned Image](Captions_With_Background.png)
+Showing both accurate image captions and non accurate captions
 Showing both accurate image captions and non accurate captions
