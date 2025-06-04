@@ -93,6 +93,6 @@ Low losses indicate effective word prediction during training, but the lowe BLEU
 - scikit-learn
 - pickle
 
+## Showing both accurate image captions and non accurate captions
 ![Captioned Image](Captions_With_Background.png)
-Showing both accurate image captions and non accurate captions
-Showing both accurate image captions and non accurate captions
+
